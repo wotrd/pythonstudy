@@ -12,7 +12,7 @@ flup==1.0.2
 gunicorn==19.6.0
 idna==2.1
 ipaddress==1.0.17
-lxml==3.6.4
+lxml==4.6.3
 MySQL-python==1.2.5
 parsel==1.0.3
 pyasn1==0.1.9
